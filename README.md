@@ -1,2 +1,10 @@
 # ML
-Basic Machine learning
+Basic Machine learning mini practics
+
+- regression
+- classification
+- clustering
+- metrics
+- PCA
+- XGBoost
+- Kaggle
